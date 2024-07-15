@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/velarion/velarion/blob/e4fa113ce0bc82c14ab8b612dd9ce280281e9f19/profile%20banner.png)](https://github.com/velarion/velarion/)
+![MasterHead](https://github.com/velarion/velarion/blob/master/banner.png)
 
 ***
 <p align="center">
@@ -7,8 +7,8 @@
 
 ***
 <picture>
-  <source align="left" width="300" srcset="https://github.com/velarion/velarion/blob/fd35caa5d3efe15d9e875874ac34fec75b9e4a3d/rotating%20triangles.gif" media="(prefers-color-scheme: dark)"/>
-  <img align="left" width="300" alt="Black Triangles" src="https://github.com/velarion/velarion/blob/1eb326d14bc268c8fe19902e04f4f53335959d73/rotating%20triangles%20black.gif"/>
+  <source align="left" width="300" srcset="https://github.com/velarion/velarion/blob/master/triangles.gif" media="(prefers-color-scheme: dark)"/>
+  <img align="left" width="300" alt="Black Triangles" src="https://github.com/velarion/velarion/blob/master/triangles%20black.gif"/>
 </picture>
 
 <br />

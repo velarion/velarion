@@ -22,8 +22,8 @@
   <img alt="HTML" width="117" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
   <img alt="CSS" width="100" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
   <img alt="Python" width="133" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-  <img alt="TypeScript" width="178" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
-  <img alt="ASP.NET" width="165" src="https://img.shields.io/badge/ASP.NET-5C2D91.svg?logo=.net&logoColor=white">
+  <img alt="TypeScript" width="170" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+  <img alt="ASP.NET" width="147" src="https://img.shields.io/badge/ASP.NET-5C2D91.svg?logo=.net&logoColor=white">
 </div>
 
 <!--

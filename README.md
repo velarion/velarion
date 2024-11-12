@@ -23,7 +23,7 @@
   <img alt="CSS" width="100" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
   <img alt="Python" width="135" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
   <img alt="TypeScript" width="180" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
-  <img alt="ASP.NET" width="167" src="https://img.shields.io/badge/ASP.NET-5C2D91.svg?logo=aspdotnet&logoColor=white">
+  <img alt="ASP.NET" width="130" src="https://img.shields.io/badge/ASP.NET-5C2D91.svg?logo=aspdotnet&logoColor=white&labelColor=5C2D91">
 </div>
 
 <!--

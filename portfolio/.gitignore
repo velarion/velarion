@@ -1,0 +1,51 @@
+# Ignore Visual Studio user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore .NET dependency caches
+packages/
+!packages/**/*.dll
+
+# Ignore NuGet cache
+.nuget/
+
+# Ignore environment configuration files
+appsettings*.json
+secrets.json
+
+# Ignore log files
+*.log
+
+# Ignore publish output
+wwwroot/
+publish/
+
+# Ignore Blazor WebAssembly artifacts
+wwwroot/dist/
+wwwroot/framework/
+
+# Ignore Rider / JetBrains IDE files
+.idea/
+*.iml
+
+# Ignore local database files
+*.mdf
+*.ldf
+
+# Ignore node modules (if using JS packages)
+node_modules/
+
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore Docker build artifacts
+docker-compose.override.yml
+**/Dockerfile*
